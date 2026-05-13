@@ -1,0 +1,21 @@
+{
+  "name": "weekly-report-skill",
+  "displayName": "Weekly Report Skill",
+  "description": "Padrões oficiais para criação e manutenção do Report Semanal Gnatus/Branevo, incluindo slides 16:9, animações, presentation mode, fluxo de dados, week definitions e templates.",
+  "version": "1.0.0",
+  "entrypoint": "SKILL.md",
+  "tags": [
+    "weekly-report",
+    "report-semanal",
+    "branevo",
+    "gnatus",
+    "slides",
+    "presentation-mode",
+    "framer-motion"
+  ],
+  "compatibleWith": [
+    "Claude Code",
+    "Codex",
+    "Gemini CLI"
+  ]
+}
